@@ -1,0 +1,3 @@
+#data loading
+!pip install pandas
+!pip install numpy
